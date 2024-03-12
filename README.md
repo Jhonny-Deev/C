@@ -1,13 +1,13 @@
 # C
-Ejercicios de C
+## Ejercicios de C
 Varios Ejercicios de 'C'.
 
 🔺🔺🔺 **CARPETA FORMAS**  🔺🔺🔺
 En ésta Carpeta Hay Ejercicios para Dibujar Formas con C.
-  **Piramide** = Como dibujar una pirámide inclinada hacia la izquierda.
-  **Piramide2** = Como dibujar una pirámide inclinada hacia la izquierda pero creando la Función a parte
-  **Piramide3** = Como dibujar una pirámide inclinada hacia la derecha creando la Función a parte
-  **Piramide4** = Como dibujar una pirámide completa
+ - **Piramide** = Como dibujar una pirámide inclinada hacia la izquierda.
+ - **Piramide2** = Como dibujar una pirámide inclinada hacia la izquierda pero creando la Función a parte
+ - **Piramide3** = Como dibujar una pirámide inclinada hacia la derecha creando la Función a parte
+ - **Piramide4** = Como dibujar una pirámide completa
 
 ➕➕➕ **CARPETA MATEMÁTICAS** ➕➕➕
 En ésta Carpeta habrá Ejercicios Para Resolver Problemas Matemáticos Simples, como areas y perímetros de Diferentes Figuras, Resolución de Equaciones, etc.
