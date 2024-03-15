@@ -16,6 +16,8 @@ En ésta Carpeta habrá Ejercicios Para Resolver Problemas Matemáticos Simples,
  - **Caja Registradora** = Calculadora de Cambio a devolver en base a el dinero Recibido
  - **Puntuación Media** = Ingresa la cantidad de Notas que quieres hacer la media y obtén la nota Media y si estás aprobado.
  - **Exponenciar** = Ingresa el número que quieres Exponenciar y el Exponente y obtén los Resultados.
+ - **ParImpar** = Ingresa un nº y te dice si es par o inpar.
+ - **Ecuacion Grado2** = Ecuación Cuadrática.Introduce los coeficientes y te devuelve las soluciones de x.
 
 🎲🎲🎲 **JUEGOS** 🎲🎲🎲
 En ésta carpeta Hay ejercicios de Juegos, Acertijos etc..
