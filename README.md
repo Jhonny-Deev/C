@@ -18,6 +18,7 @@ En ésta Carpeta habrá Ejercicios Para Resolver Problemas Matemáticos Simples,
  - **Exponenciar** = Ingresa el número que quieres Exponenciar y el Exponente y obtén los Resultados.
  - **ParImpar** = Ingresa un nº y te dice si es par o inpar.
  - **Ecuacion Grado2** = Ecuación Cuadrática.Introduce los coeficientes y te devuelve las soluciones de x.
+ - **Iva** = Pregunta el nº de Iva, El precio y te devuelve el total del iva y el total del iva y el precio final.
 
 🎲🎲🎲 **JUEGOS** 🎲🎲🎲
 En ésta carpeta Hay ejercicios de Juegos, Acertijos etc..
